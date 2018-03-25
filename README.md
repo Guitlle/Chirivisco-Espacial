@@ -5,11 +5,14 @@ por Guillermo Ambrosio <lgar89@gmail.com>
 Compilar:
 ---------
 
+```
 > cd src
 > javac *.java
 > jar cvfm ../chiri.jar manifest.txt *.class
 > cd ..
 > java -jar chiri.jar
+```
+
 
 Descripcion:
 ------------
@@ -22,5 +25,10 @@ Cómo Jugar:
 -----------
 
 La nave se mueve con las flechas del teclado. Se tienen tres vidas. Al acabarse los hp 
-de la nave, se pierde una vida.
+de la nave, se pierde una vida. Para correr el juego es necesario estar en el directorio
+correcto: 
 
+```
+> cd Chirivisco-Espacial
+> java -jar chiri.jar
+```
