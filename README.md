@@ -14,12 +14,15 @@ Compilar:
 ```
 
 
+
 Descripcion:
 ------------
 
 Chirivisco Espacial es un juego hecho en Java. Se trata de una nave que navega en un 
 tablero y que debe recoger los recursos que aparecen. Caen bombas aleatoriamente y 
 además hay obstáculos. 
+
+![](/cachibaches/screenshot.png?raw=true "Screenshot")
 
 Cómo Jugar:
 -----------
